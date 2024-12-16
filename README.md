@@ -64,7 +64,7 @@ When you run RandomSearchBitcoinBalance.py you must specify a minimum start numb
 
 And to run the code in your terminal, you need to type these commands below:
 
-**py RandomSearchBitcoinBalance.py**
+**py RandomSearchBitcoinBalance.py** or python3 RandomSearchBitcoinBalance.py
 
 ## Sequential search for Bitcoin Wallet with Balance Checker
 ![SequentialSearchBitcoinBalance](https://user-images.githubusercontent.com/89576432/214027464-ecbf7ac5-58f9-416f-8112-0dba2325e4c0.png)
@@ -73,14 +73,19 @@ When you run SequentialSearchBitcoinBalance.py you must also specify a minimum s
 
 And to run the code in your terminal, you need to type these commands below:
 
-**py SequentialSearchBitcoinBalance.py**
+**py SequentialSearchBitcoinBalance.py** or python3 SequentialSearchBitcoinBalance.py 
 
 
 ## Install dependencies
 To be able to use these codes, you must install all the modules just by typing in your terminal the command below:
 
-**pip3 install bit chainside-btcpy** 
+sudo apt install python
+sudo apt install pythonpy
+sudo apt install pip
+sudo pip install bit
+
+**pip install bit chainside-btcpy** or **pip3 install bit chainside-btcpy** 
 
 or 
 
-**pip3 install bit chainside-btcpy eth_keys eth-hash[pycryptodome]**
+**pip install bit chainside-btcpy eth_keys eth-hash[pycryptodome]** or **pip3 install bit chainside-btcpy eth_keys eth-hash[pycryptodome]**
