@@ -87,8 +87,8 @@ sudo apt install pip
 
 sudo pip install bit
 
-**pip install bit chainside-btcpy** or **pip3 install bit chainside-btcpy** 
+**pip install bit chainside-btcpy** </or> **pip3 install bit chainside-btcpy** 
 
 or 
 
-**pip install bit chainside-btcpy eth_keys eth-hash[pycryptodome]** or **pip3 install bit chainside-btcpy eth_keys eth-hash[pycryptodome]**
+**pip install bit chainside-btcpy eth_keys eth-hash[pycryptodome]** </or> **pip3 install bit chainside-btcpy eth_keys eth-hash[pycryptodome]**
