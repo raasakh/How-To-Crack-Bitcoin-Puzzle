@@ -28,7 +28,7 @@ Because I am a nice guy, I have already prepared the list of puzzle bitcoin addr
 
 And when you run the code in your terminal, you need to type these commands below:
 
-**py RandomSearchPuzzle.py** </or> python3 RandomSearchPuzzle.py
+**py RandomSearchPuzzle.py** or python3 RandomSearchPuzzle.py
 
 ## Sequential Search for Bitcoin Puzzle Wallets
 ![SequentialSearchPuzzle](https://user-images.githubusercontent.com/89576432/214027761-a9a7eebf-0d5c-467f-aca4-532dc6d611bf.png)
@@ -37,7 +37,7 @@ When you run SequentialSearchPuzzle.py, you must specify a minimum start number 
 
 To run the code in your terminal, you need to type these commands below:
 
-**py SequentialSearchPuzzle.py** </or> python3 SequentialSearchPuzzle.py
+**py SequentialSearchPuzzle.py** or python3 SequentialSearchPuzzle.py
 
 ## Random Search for Bitcoin and ETH Puzzle Wallets
 ![RandomSearchBitcoinETH](https://user-images.githubusercontent.com/89576432/214027114-a51c3f80-802c-41af-810e-7f1d1d1be269.png)
@@ -64,7 +64,7 @@ When you run RandomSearchBitcoinBalance.py you must specify a minimum start numb
 
 And to run the code in your terminal, you need to type these commands below:
 
-**py RandomSearchBitcoinBalance.py** </or> python3 RandomSearchBitcoinBalance.py
+**py RandomSearchBitcoinBalance.py** or python3 RandomSearchBitcoinBalance.py
 
 ## Sequential search for Bitcoin Wallet with Balance Checker
 ![SequentialSearchBitcoinBalance](https://user-images.githubusercontent.com/89576432/214027464-ecbf7ac5-58f9-416f-8112-0dba2325e4c0.png)
@@ -73,7 +73,7 @@ When you run SequentialSearchBitcoinBalance.py you must also specify a minimum s
 
 And to run the code in your terminal, you need to type these commands below:
 
-**py SequentialSearchBitcoinBalance.py** </or> python3 SequentialSearchBitcoinBalance.py 
+**py SequentialSearchBitcoinBalance.py** or python3 SequentialSearchBitcoinBalance.py 
 
 
 ## Install dependencies
@@ -87,8 +87,8 @@ sudo apt install pip
 
 sudo pip install bit
 
-**pip install bit chainside-btcpy** </or> **pip3 install bit chainside-btcpy** 
+**pip install bit chainside-btcpy** or **pip3 install bit chainside-btcpy** 
 
 or 
 
-**pip install bit chainside-btcpy eth_keys eth-hash[pycryptodome]** </or> **pip3 install bit chainside-btcpy eth_keys eth-hash[pycryptodome]**
+**pip install bit chainside-btcpy eth_keys eth-hash[pycryptodome]** or **pip3 install bit chainside-btcpy eth_keys eth-hash[pycryptodome]**
