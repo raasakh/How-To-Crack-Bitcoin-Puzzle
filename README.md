@@ -28,7 +28,7 @@ Because I am a nice guy, I have already prepared the list of puzzle bitcoin addr
 
 And when you run the code in your terminal, you need to type these commands below:
 
-**py RandomSearchPuzzle.py**
+**py RandomSearchPuzzle.py** ot python3 RandomSearchPuzzle.py
 
 ## Sequential Search for Bitcoin Puzzle Wallets
 ![SequentialSearchPuzzle](https://user-images.githubusercontent.com/89576432/214027761-a9a7eebf-0d5c-467f-aca4-532dc6d611bf.png)
