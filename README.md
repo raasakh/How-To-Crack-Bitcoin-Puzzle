@@ -39,7 +39,11 @@ To run the code in your terminal, you need to type these commands below:
 
 **py SequentialSearchPuzzle.py** or python3 SequentialSearchPuzzle.py
 
-Puzzle №67 Private Key Range HEX: 40000000000000000:7ffffffffffffffff || Decimal: 73786976294838206464:147573952589676412927
+Puzzle №67 
+
+Private Key Range 
+
+HEX: 40000000000000000:7ffffffffffffffff || Decimal: 73786976294838206464:147573952589676412927
 
 ## Random Search for Bitcoin and ETH Puzzle Wallets
 ![RandomSearchBitcoinETH](https://user-images.githubusercontent.com/89576432/214027114-a51c3f80-802c-41af-810e-7f1d1d1be269.png)
