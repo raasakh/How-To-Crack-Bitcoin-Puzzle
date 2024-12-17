@@ -39,9 +39,7 @@ To run the code in your terminal, you need to type these commands below:
 
 **py SequentialSearchPuzzle.py** or python3 SequentialSearchPuzzle.py
 
-Puzzle №67 
-
-Private Key Range 
+Puzzle №67 Private Key Range 
 
 HEX: 40000000000000000:7ffffffffffffffff || Decimal: 73786976294838206464:147573952589676412927
 
@@ -71,6 +69,10 @@ When you run RandomSearchBitcoinBalance.py you must specify a minimum start numb
 And to run the code in your terminal, you need to type these commands below:
 
 **py RandomSearchBitcoinBalance.py** or python3 RandomSearchBitcoinBalance.py
+
+Puzzle №67 Private Key Range 
+
+HEX: 40000000000000000:7ffffffffffffffff || Decimal: 73786976294838206464:147573952589676412927
 
 ## Sequential search for Bitcoin Wallet with Balance Checker
 ![SequentialSearchBitcoinBalance](https://user-images.githubusercontent.com/89576432/214027464-ecbf7ac5-58f9-416f-8112-0dba2325e4c0.png)
